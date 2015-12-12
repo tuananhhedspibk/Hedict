@@ -1,0 +1,11 @@
+//	SET [REGEX] [DICT=dict]
+//	UNSET [REGEX] [DICT=dict] [ALL]
+//	INFO [VERSION] [DICT] [ALL]
+
+//	HELP
+// 	EXIT
+//	LOAD 	path_dict path_index name
+//	DROP	name(dict)
+//	FIND 	dict 	pattern
+
+//	ADD	 	dict 	pattern
